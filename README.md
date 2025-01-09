@@ -9,7 +9,7 @@ Sheephish is a fun and interactive OpenGL-based game where players immerse thems
 **Installation**
 Clone the Repository:
 
-git clone https://github.com/your-repo-url/Sheephish.git
+git clone [https://github.com/your-repo-url/Sheephish.git](https://github.com/noureen-aslam/Sheepish-Game.git)
 cd Sheephish
 
 
